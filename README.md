@@ -1,6 +1,3 @@
-# BitDisplay
-A hardware project utilizing **ESP32** that fetches the **Bitcoin price** from the BTC API and displays it on an OLED screen. The project is implemented in Python.
-
 # Display Bitcoin Price on OLED with ESP32 and Python
 
 This project enables you to display the price of Bitcoin on an OLED display using the ESP32 development board and the Python programming language.
