@@ -11,9 +11,9 @@ This project enables you to display the price of Bitcoin on an OLED display usin
 
 ## Installation and Setup
 
-1. Download and install the Arduino IDE programming environment.
+1. Download and install the **Arduino IDE** programming environment.
 2. Connect the ESP32 board to your computer using a USB cable.
-3. In the Arduino IDE, select the ESP32 board from the "Tools > Board" menu.
+3. In the Arduino IDE, select the ESP32 board from the **Tools > Board** menu.
 4. Search and install the `Adafruit_SSD1306` library from the "Tools > Libraries" menu.
 5. Download the `main.py` file from the GitHub repository.
 6. Open the `main.py` file in the Arduino IDE and upload it to the ESP32 board.
