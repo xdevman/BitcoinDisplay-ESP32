@@ -7,7 +7,7 @@ This project enables you to display the price of Bitcoin on an OLED display usin
 - ESP32 development board
 - 64x48 pixel OLED display
 - Connecting cables
-- SIM card and internet access
+- internet access
 
 ## Installation and Setup
 1.Install Thonny IDE: Download and install the Thonny IDE from the official website (thonny.org). Thonny is a beginner-friendly Python IDE that provides a user-friendly interface for programming the ESP32.
