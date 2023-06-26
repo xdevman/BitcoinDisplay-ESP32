@@ -1,6 +1,6 @@
 # Display Bitcoin Price on OLED with ESP32 and Python
 
-This project enables you to display the price of Bitcoin on an OLED display using the ESP32 development board and the Python programming language.
+This project allows you to showcase the current price of Bitcoin on an OLED display using the ESP32 development board and Python programming language. For more detailed information, you can read [my blog post](https://sobhan.hashnode.dev/getting-started-with-esp32-building-a-bitcoin-price-display-with-python) dedicated to this project.
 
 ## Requirements
 
