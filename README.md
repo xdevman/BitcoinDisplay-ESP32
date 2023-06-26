@@ -13,12 +13,12 @@ For more detailed information, you can read [my blog post](https://sobhan.hashno
 
 ## Installation and Setup
 1. Install Thonny IDE: Download and install the Thonny IDE from the official website (thonny.org). Thonny is a beginner-friendly Python IDE that provides a user-friendly interface for programming the ESP32.
-2. Install the ESP32 MicroPython Firmware: Download the MicroPython firmware for ESP32 from the official website (micropython.org/download/esp32). Follow the instructions provided to flash the firmware onto your ESP32 board.</br>
-3. Open Thonny IDE: Launch Thonny IDE on your computer to begin programming the ESP32.</br>
-4. Download the `main.py` file from the GitHub repository.</br>
-5. Open the `main.py` file in the thonny IDE.</br>
-6. Set your **SSID** and **PASSWORD** in the source code.</br>
-7. upload it to the ESP32 board.</br>
+2. Install the ESP32 MicroPython Firmware: Download the MicroPython firmware for ESP32 from the official website (micropython.org/download/esp32). Follow the instructions provided to flash the firmware onto your ESP32 board.
+3. Open Thonny IDE: Launch Thonny IDE on your computer to begin programming the ESP32.
+4. Download the `main.py` file from the GitHub repository.
+5. Open the `main.py` file in the thonny IDE.
+6. Set your **SSID** and **PASSWORD** in the source code.
+7. upload it to the ESP32 board.
 
 ## Usage
 
