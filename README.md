@@ -1,6 +1,8 @@
 # Display Bitcoin Price on OLED with ESP32 and Python
 
-This project allows you to showcase the current price of Bitcoin on an OLED display using the ESP32 development board and Python programming language. For more detailed information, you can read [my blog post](https://sobhan.hashnode.dev/getting-started-with-esp32-building-a-bitcoin-price-display-with-python) dedicated to this project.
+This project allows you to showcase the current price of Bitcoin on an OLED display using the ESP32 development board and Python programming language.
+</br>
+For more detailed information, you can read [my blog post](https://sobhan.hashnode.dev/getting-started-with-esp32-building-a-bitcoin-price-display-with-python) dedicated to this project.
 
 ## Requirements
 
@@ -10,13 +12,13 @@ This project allows you to showcase the current price of Bitcoin on an OLED disp
 - internet access
 
 ## Installation and Setup
-1.Install Thonny IDE: Download and install the Thonny IDE from the official website (thonny.org). Thonny is a beginner-friendly Python IDE that provides a user-friendly interface for programming the ESP32.
-2.Install the ESP32 MicroPython Firmware: Download the MicroPython firmware for ESP32 from the official website (micropython.org/download/esp32). Follow the instructions provided to flash the firmware onto your ESP32 board.
-3.Open Thonny IDE: Launch Thonny IDE on your computer to begin programming the ESP32.
-4. Download the `main.py` file from the GitHub repository.
-5. Open the `main.py` file in the thonny IDE.
-6. Set your **SSID** and **PASSWORD** in the source code.
-7. upload it to the ESP32 board.
+1. Install Thonny IDE: Download and install the Thonny IDE from the official website (thonny.org). Thonny is a beginner-friendly Python IDE that provides a user-friendly interface for programming the ESP32.
+2. Install the ESP32 MicroPython Firmware: Download the MicroPython firmware for ESP32 from the official website (micropython.org/download/esp32). Follow the instructions provided to flash the firmware onto your ESP32 board.</br>
+3. Open Thonny IDE: Launch Thonny IDE on your computer to begin programming the ESP32.</br>
+4. Download the `main.py` file from the GitHub repository.</br>
+5. Open the `main.py` file in the thonny IDE.</br>
+6. Set your **SSID** and **PASSWORD** in the source code.</br>
+7. upload it to the ESP32 board.</br>
 
 ## Usage
 
